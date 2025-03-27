@@ -30,9 +30,9 @@ Authentication service,Access service,-,-,Afsprakenstelsel Elektronische Toegang
 Recognition broker service,Access service,-,-,Afsprakenstelsel Elektronische Toegangsdiensten,No,No
 Mandate registry service,Access service,-,-,Afsprakenstelsel Elektronische Toegangsdiensten,No,No
 Identification means provision service,Access service,-,-,Afsprakenstelsel Elektronische Toegangsdiensten,No,No
-Message delivery service,Delivery service,-,"De eIDAS-berichtenservice (EB) is een component/rol binnen het Netwerk (voor Elektronische Toegangsdiensten) welke Elektronische Toegangsdiensten verbindt met de andere eIDAS-lidstaten en vice versa. (not an eIDAS-Node, but an eIDAS-Node Proxy Service)",Afsprakenstelsel Elektronische Toegangsdiensten,No,No
+Message delivery service,Delivery service,-,"”De eIDAS-berichtenservice (EB) is een component/rol binnen het Netwerk (voor Elektronische Toegangsdiensten) welke Elektronische Toegangsdiensten verbindt met de andere eIDAS-lidstaten en vice versa.” (not an eIDAS-Node, but an eIDAS-Node Proxy Service)",Afsprakenstelsel Elektronische Toegangsdiensten,No,No
 Pseudonym provision service,Access service,-,E.g. BSNk,Afsprakenstelsel Elektronische Toegangsdiensten,No,No
-Data sourcing service,Personal data management service,-,E.g. scraping apps. "Bron ontsluiten",Referentiearchitectuur Regie op Gegevens 2023,No,No
+Data sourcing service,Personal data management service,-,"E.g. scraping apps. “Bron ontsluiten”",Referentiearchitectuur Regie op Gegevens 2023,No,No
 Personal digital environment provision service,Acting space provision service,-,-,Referentiearchitectuur Regie op Gegevens 2023,No,No
 Personal data derivation service,Personal data management service,-,"Afleiden",Referentiearchitectuur Regie op Gegevens 2023,No,No
 Personal data reading service,Personal data management service,-,"Lezen",Referentiearchitectuur Regie op Gegevens 2023,No,No
