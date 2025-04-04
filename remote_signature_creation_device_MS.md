@@ -4,7 +4,7 @@
 
 | **Main Trust Service**                   | **Subservices**                                                                 |
 |------------------------------------------|----------------------------------------------------------------------------------|
-| **Electronic Signatures**                | - Creation of signatures<br>- Validation of signatures<br>- Preservation of signatures<br>- Issuance of signature certificates<br>- **Management of remote signature creation devices** |
+| **Electronic Signatures**                | - Creation of signatures<br>- Validation of signatures<br>- Preservation of signatures<br>- Issuance of signature certificates<br>- **Management of remote signature creation devices** |<br>- Validation of certificates|
 
 ---
 
