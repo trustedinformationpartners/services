@@ -1,0 +1,33 @@
+# Signature Certificate Issuance Service 
+
+## Placement in the eIDAS Trust Services Schema
+
+| **Main Trust Service**                   | **Subservices**                                                                 |
+|------------------------------------------|----------------------------------------------------------------------------------|
+| **Electronic Signatures**                | - Creation of signatures<br>- Validation of signatures<br>- Preservation of signatures<br>- **Issuance of signature certificates**<br>- Management of remote signature creation devices |
+
+---
+
+## Role and Importance of the Signature Certificate Issuance Service
+
+### 1. **Issuance of Certificates for Electronic Signatures**
+   - This service is responsible for generating and issuing digital certificates that are used to create electronic signatures.
+   - Qualified certificates are issued by Qualified Trust Service Providers (QTSPs) and comply with strict eIDAS requirements.
+
+### 2. **Legal Validity**
+   - The certificates provide proof of identity for the signatory and ensure that electronic signatures are legally binding under eIDAS.
+   - Qualified certificates enable the creation of **Qualified Electronic Signatures (QES)**, which have the same legal standing as handwritten signatures.
+
+### 3. **Integration with Remote Signing**
+   - The issuance service works seamlessly with remote signature creation devices by providing the necessary certificates for secure signing processes.
+   - For example, QTSPs like Entrust offer eIDAS-qualified certificates via their Remote Signing Service, enabling employees to sign documents securely from anywhere[1][5].
+
+### 4. **Compliance with eIDAS Standards**
+   - The service ensures that identity verification is performed before issuing a certificate, as required by Annex I of the eIDAS regulation.
+   - Certificates must be stored in a Qualified Signature Creation Device (QSCD) to generate QES; otherwise, they are used for advanced signatures.
+
+---
+
+## Summary
+
+The **Signature Certificate Issuance Service** is a key subservice within the **Electronic Signatures** category under eIDAS. It provides the necessary digital certificates to enable secure, legally binding electronic signatures. By ensuring compliance with strict identity verification and security standards, this service supports trust in electronic transactions across borders within the EU.

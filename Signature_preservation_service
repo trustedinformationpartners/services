@@ -1,0 +1,37 @@
+# Signature Preservation Service
+
+## Placement in the eIDAS Trust Services Schema
+
+| **Main Trust Service**                   | **Subservices**                                                                 |
+|------------------------------------------|----------------------------------------------------------------------------------|
+| **Electronic Signatures**                | - Creation of signatures<br>- Validation of signatures<br>- **Preservation of signatures**<br>- Issuance of signature certificates<br>- Management of remote signature creation devices |
+
+---
+
+## Role and Importance of the Signature Preservation Service
+
+### 1. **Preservation of Electronic Signatures**
+   - This service ensures the long-term validity and reliability of electronic signatures.
+   - It safeguards the integrity, authenticity, and legal admissibility of signed documents over time, even as technology evolves.
+
+### 2. **Legal Compliance**
+   - The preservation service complies with eIDAS standards and ETSI specifications (e.g., ETSI TS 119 511), guaranteeing that preserved signatures remain legally binding.
+   - It extends the probative value of qualified electronic signatures beyond their initial technological validity period.
+
+### 3. **Protection Against Tampering**
+   - By using advanced encryption, secure storage, and time-stamping, the preservation service protects electronic signatures from tampering or unauthorized modifications.
+   - This ensures that preserved signatures maintain their original integrity.
+
+### 4. **Integration with Archiving Systems**
+   - While preservation focuses on maintaining the trustworthiness of electronic signatures and seals, it can work alongside electronic archiving systems to provide comprehensive document management solutions.
+   - Preservation targets the signature or seal itself, while archiving focuses on the document's integrity.
+
+### 5. **Cross-Border Recognition**
+   - Ensures interoperability across EU member states by adhering to eIDAS standards for preservation services.
+   - Facilitates seamless digital transactions by maintaining trust in preserved electronic signatures across borders.
+
+---
+
+## Summary
+
+The **Signature Preservation Service** is a vital subservice within the **Electronic Signatures** category under eIDAS. It guarantees the long-term validity, authenticity, and legal reliability of electronic signatures by safeguarding them against technological obsolescence and tampering. This service plays a crucial role in ensuring compliance with EU regulations and fostering trust in digital transactions over time.
