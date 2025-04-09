@@ -4,7 +4,7 @@
 
 | **Main Trust Service** | **Subservices** |
 |--------------------------|------------------|
-| **Electronic Time Stamps** | - Creation of timestamps<br>- Validation of timestamps<br>- Preservation of timestamps |
+| **Electronic Time Stamps** | - **Creation of timestamps**<br>- Validation of timestamps<br> |
 
 ---
 
