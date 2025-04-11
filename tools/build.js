@@ -20,11 +20,11 @@ let docs = (await readdir(DOCS))
     id: `doc-${id}`
   }))
 
-await writeFile(`${OUT}/${BOOK}.md`, `# ${TITLE}\n\n`, { flag: 'w' })
+await writeFile(`${OUT}/${BOOK}.md`, "", { flag: 'w' })
 
 for (let { source, id } of docs) {
   let content = await readFile(`${source}.md`)
-  await writeFile(`${OUT}/${BOOK}.md`, `<a id="${id}"></a>\n\n`, { flag: 'a' })
+  await writeFile(`${OUT}/${BOOK}.md`, `<a class="service" id="${id}"></a>\n\n`, { flag: 'a' })
   await writeFile(`${OUT}/${BOOK}.md`, `${content}\n`, { flag: 'a' })
 }
 
@@ -45,6 +45,7 @@ execSync(`pandoc \
   --css ../tools/tip.css \
   --css "https://fonts.googleapis.com/css2?family=Carlito:ital,wght@0,400;0,700;1,400;1,700&family=Source+Code+Pro:wght@400;700&display=swap" \
   --toc \
+  --toc-depth=1 \
   -V title:"${TITLE}" \
   -V pagetitle:"${TITLE} - Trusted Information Partners" \
   ${BOOK}.md

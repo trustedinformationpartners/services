@@ -50,6 +50,11 @@ h1 {
   margin-top: 2em;
 }
 
+a.service {
+  display: block;
+  page-break-before: always;
+}
+
 h2 {
   font-size: inherit;
   font-weight: bold;
