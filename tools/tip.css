@@ -1,0 +1,122 @@
+@page :first {
+  margin: 0;
+}
+
+@page {
+  margin: 45mm 25mm 25mm 25mm;
+}
+
+body {
+  font-family: Carlito;
+  font-size: 11pt;
+}
+
+#title-block-header {
+  page-break-after: always;
+}
+
+#title-block-header h1 {
+  background: url(cover.png);
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 45mm;
+  margin: 0;
+  color: #ffffff;
+  font-family: "Liberation Sans";
+  font-weight: bold;
+  font-size: 36pt;
+  padding: 90mm 40mm;
+}
+
+#title-block-header i {
+  display: block;
+}
+
+a {
+  color: #0563c1;
+  text-decoration: underline;
+}
+
+h1, h2 {
+  page-break-after: avoid;
+}
+
+h1 {
+  font-size: 16pt;
+  font-weight: inherit;
+  color: #1225b0;
+  margin-top: 2em;
+}
+
+h2 {
+  font-size: inherit;
+  font-weight: bold;
+  margin-top: 2em;
+}
+
+table {
+  border: 1px solid #4bacc6;
+  border-collapse: collapse;
+  page-break-inside: avoid;
+}
+
+th {
+  background: #4bacc6;
+  color: #ffffff;
+  text-align: left;
+}
+
+th, td {
+  padding: 2pt;
+}
+
+td {
+  border-top: 1px solid #4bacc6;
+  border-left: 1px solid #4bacc6;
+  border-right: 1px solid #4bacc6;
+}
+
+figure pre {
+  page-break-inside: avoid;
+  margin: 2em 0;
+}
+
+code {
+  font-family: "Source Code Pro";
+}
+
+ul {
+  page-break-before: avoid;
+  page-break-inside: avoid;
+}
+
+img {
+  max-width: 100%;
+}
+
+#TOC {
+  page-break-after: always;
+}
+
+#TOC ul {
+  list-style: none;
+}
+
+#TOC > ul {
+  padding-left: 0;
+}
+
+.note {
+  margin: 2em 0 2em 2.5em;
+}
+
+.note .title {
+  font-weight: bold;
+  color: #1225b0;
+}
+
+.date {
+  display: none;
+}

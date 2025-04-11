@@ -1,0 +1,22 @@
+name: Build
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  pdf:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt install fonts-crosextra-carlito
+      - name: Install pandoc
+        run: |
+          curl -LO https://github.com/jgm/pandoc/releases/download/3.6.2/pandoc-3.6.2-1-amd64.deb
+          sudo dpkg -i pandoc-3.6.2-1-amd64.deb
+      - run: npm install
+      - run: npm run build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: services-pdf
+          path: build/*.pdf

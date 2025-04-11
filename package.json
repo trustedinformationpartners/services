@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustedinformationpartners/services.git"
+  },
+  "devDependencies": {
+    "@mermaid-js/mermaid-cli": "~11.4.2",
+    "puppeteer": "^23"
+  },
+  "scripts": {
+    "build": "node tools/build.js"
+  }
+}
