@@ -10,8 +10,8 @@
 | **Electronic Registered Delivery Services** | - [Provision of registred delivery services](delivery_service.md)<br>- [Validation of delivery service data](delivery_service_validation.md)            |
 | **Website Authentication**               | - [Issuance of website authentication certificates](website_authentication_cert_issuance_service.md)<br>- [Validation of website authentication certificates](website_authentication_validation_issuance_service.md)                      |
 | **Electronic Attestations of Attributes** | - [Issuance of attestations](attribute_attestation_issuance_service.md)<br>- [Validation of attestations](attribute_attestation_validation_service.md)                      |
-| **Electronic Archiving Services**        | - Archiving electronic data and documents                                       |
-| **Electronic Ledgers**                   | - Registration of electronic data                                               |
+| **Electronic Archiving Services**        | - [Archiving electronic data and documents](archiving_electronic_data.md)                                       |
+| **Electronic Ledgers**                   | - [Ledgerservice for electronic data](docs/ledger_service.md)                                               |
 
 ---
 
