@@ -6,7 +6,7 @@ import { launch } from "puppeteer"
 const DOCS = "docs"
 const OUT = "build"
 const TITLE = "Generic services for digital infrastructure"
-const BOOK = "services"
+const BOOK = "generic-services"
 const VERSION = "0.1.0-SNAPSHOT"
 
 let date = new Date().toISOString().substr(0, 10)
