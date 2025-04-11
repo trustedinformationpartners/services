@@ -6,10 +6,10 @@
 |------------------------------------------|----------------------------------------------------------------------------------|
 | **Electronic Signatures**                | - [Creation of signatures](signature_creation_service.md) <br>- [Validation of signatures](signature_validation_service.md)<br>- [Preservation of signatures](signature_preservation_service.md)<br>- [Management of devices for creating remote signatures](signature_remote_creation_device_MS.md) <br>- [Issuance of signature certificates](signature_certificate_issuance_service.md) <br>- [Validation of certificates](signature_certificate_validation_service.md)
 | **Electronic Seals**                     | - [Seal creation service](seal_creation_service.md)<br>- [Seal Validation service](seal_validation_service.md)<br>- [Seal Preservation service](seal_preservation_service.md)<br>- [Remote seal creation device managment service](remote_seal_creation_creation_device_ms.md)<br>- [Seal certificate issuance service](seal_certificate_issuance.md)<br>- [Seal certificate validation service](signature_certificate_validation_service.md)
-| **Electronic Time Stamps**               | - [Creation of time stamps](timestamp_creation_service.md)<br>- Validation of time stamps                        |
-| **Electronic Registered Delivery Services** | - Provision of delivery services<br>- Validation of transmitted data            |
-| **Website Authentication**               | - Issuance of certificates<br>- Validation of certificates                      |
-| **Electronic Attestations of Attributes** | - Issuance of attestations<br>- Validation of attestations                      |
+| **Electronic Time Stamps**               | - [Creation of time stamps](timestamp_creation_service.md)<br>- [Validation of time stamps](timestamp_validation.md)                        |
+| **Electronic Registered Delivery Services** | - [Provision of registred delivery services](delivery_service.md)<br>- [Validation of delivery service data](delivery_service_validation.md)            |
+| **Website Authentication**               | - [Issuance of website authentication certificates](website_authentication_cert_issuance_service.md)<br>- [Validation of website authentication certificates](website_authentication_validation_issuance_service.md)                      |
+| **Electronic Attestations of Attributes** | - [Issuance of attestations](attribute_attestation_issuance_service.md)<br>- [Validation of attestations](attribute_attestation_validation_service.md)                      |
 | **Electronic Archiving Services**        | - Archiving electronic data and documents                                       |
 | **Electronic Ledgers**                   | - Registration of electronic data                                               |
 
