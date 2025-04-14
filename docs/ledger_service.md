@@ -46,6 +46,3 @@
 
 ---
 
-## Summary
-
-The **Qualified Ledger Service** is a significant addition to the eIDAS 2.0 framework, introducing blockchain-based trust services to the European digital landscape. By providing legally recognized, immutable, and chronologically ordered records, this service opens up new possibilities for secure data management and verification across various sectors. The integration with existing infrastructures like EBSI and its potential applications in areas such as supply chain management, digital identity, and regulatory compliance position the Qualified Ledger Service as a key enabler for digital innovation and trust in the EU.

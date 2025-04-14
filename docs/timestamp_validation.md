@@ -43,7 +43,3 @@
    - Opens new markets by combining time stamp validation services with innovative technology platforms.
 
 ---
-
-## Summary
-
-The **Validation of Time Stamps Service** is a vital subservice within the **Electronic Time Stamps** category under eIDAS. It ensures the legal validity and integrity of electronic time stamps, fostering trust in digital transactions. By adhering to strict eIDAS standards, this service supports cross-border trust within the EU while unlocking significant opportunities for market innovation and business transformation.

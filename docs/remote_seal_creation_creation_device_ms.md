@@ -44,6 +44,4 @@
 
 ---
 
-## Summary
 
-The **Remote Seal Creation Device Management Service** is a vital subservice within the 

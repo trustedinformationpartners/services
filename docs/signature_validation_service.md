@@ -37,6 +37,3 @@
 
 ---
 
-## Summary
-
-The **Signature Validation Service** is an essential subservice within the **Electronic Signatures** category under eIDAS. It ensures that electronic signatures are authentic, legally valid, and compliant with EU regulations. By verifying both the integrity of signed documents and the validity of certificates, this service builds trust in digital transactions across borders.

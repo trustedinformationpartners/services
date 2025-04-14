@@ -32,6 +32,4 @@
 
 ---
 
-## Summary
 
-The **Signature Creation Service** is a foundational subservice within the **Electronic Signatures** category under eIDAS. It enables users to generate secure, legally binding electronic signatures using cryptographic methods and Qualified Signature Creation Devices (QSCD). By ensuring compliance with strict security and legal standards, this service supports trust in digital transactions across borders within the EU.

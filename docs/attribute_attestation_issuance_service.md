@@ -8,6 +8,7 @@
 
 ---
 
+
 ## Role and Importance of the Attribute Attestation Issuance Service
 
 ### 1. **Issuance of Electronic Attestations of Attributes**
@@ -20,7 +21,7 @@
 
 ### 3. **Integration with Authentic Sources**
    - The service connects with Authentic Sources to verify the accuracy of attributes before issuing attestations.
-   - For attributes listed in Annex VI of the eIDAS Regulation (address, age, gender, civil status, family composition, nationality, education qualifications, professional qualifications, permits, financial data), Authentic Sources must provide interfaces to QEAA Providers.
+   - For attributes listed in Annex VI of the eIDAS Regulation (address, age, gender, civil status, family composition, nationality, education qualifications, professional qualifications, permits, financial data), Authentic Sources must provide interfaces to QEAA or PUBEAA Providers.
 
 ### 4. **Non-repudation**
 
@@ -54,6 +55,4 @@ Non-repudiation in the context of QEAA provides:
 
 ---
 
-## Summary
 
-The **Attribute Attestation Issuance Service** is a critical subservice within the **Electronic Attestation of Attributes** category under eIDAS. It provides the necessary digital attestations to verify specific attributes of natural and legal persons. By ensuring compliance with strict data verification and security standards, this service supports trust in digital transactions across borders within the EU while simultaneously creating significant opportunities for market innovation and business transformation in the digital identity ecosystem.

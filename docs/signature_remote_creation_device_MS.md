@@ -27,7 +27,3 @@
    - Protects sensitive cryptographic keys and signing processes from unauthorized use.
 
 ---
-
-## Summary
-
-The **Remote Signature Creation Device Management Service** is a critical subservice within the **Electronic Signatures** category under eIDAS. It enables users to securely create legally binding electronic signatures without needing to manage physical signature devices themselves. By ensuring compliance with strict security and legal standards, this service supports modern digital workflows and facilitates trust in remote signing solutions.

@@ -62,6 +62,4 @@ The message broker essentially forms the backbone of the QERDS technical archite
 A Message Delivery Service plays a crucial role within the eIDAS framework and Dutch electronic access services, functioning as a key component for secure digital communications between parties. 
 
 
-## Summary
 
-The **Registered Delivery Service** is a critical service within the **Electronic Registered Delivery** category under eIDAS. It ensures the secure and legally recognized transmission of data between parties, providing evidence of sending and receiving. By adhering to strict eIDAS standards, this service supports trust in electronic communications across borders within the EU while unlocking significant opportunities for market innovation and business transformation.

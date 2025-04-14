@@ -44,6 +44,3 @@
 
 ---
 
-## Summary
-
-The **Seal Preservation Service** is a critical subservice within the **Electronic Seals** category under eIDAS. It ensures the long-term validity and integrity of electronic seals, fostering trust in digital transactions over extended periods. By adhering to strict eIDAS standards, this service supports cross-border trust within the EU while simultaneously unlocking significant opportunities for market innovation and business transformation.

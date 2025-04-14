@@ -45,6 +45,3 @@
 
 ---
 
-## Summary
-
-The **Seal Validation Service** is a critical subservice within the **Electronic Seals** category under eIDAS. It ensures the legal validity and integrity of electronic seals, fostering trust in digital transactions. By adhering to strict eIDAS standards, this service supports cross-border trust within the EU while unlocking significant opportunities for market innovation and business transformation.

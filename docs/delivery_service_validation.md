@@ -45,6 +45,3 @@
 
 ---
 
-## Summary
-
-The **Validation of Registered Delivery Service** is a critical subservice within the **Electronic Registered Delivery** category under eIDAS. It ensures the legal validity and integrity of electronic registered deliveries, fostering trust in digital communications. By adhering to strict eIDAS standards, this service supports cross-border trust within the EU while unlocking significant opportunities for market innovation and business transformation.

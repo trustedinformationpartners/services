@@ -44,6 +44,3 @@
 
 ---
 
-## Summary
-
-The **Attribute Attestation Validation Service** is a critical subservice within the **Electronic Attestation of Attributes** category under eIDAS. It ensures the legal validity and integrity of electronic attestations of attributes, fostering trust in digital credentials. By adhering to strict eIDAS standards, this service supports cross-border trust within the EU while unlocking significant opportunities for market innovation and business transformation in the digital identity ecosystem.

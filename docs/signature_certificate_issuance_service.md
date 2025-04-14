@@ -28,6 +28,4 @@
 
 ---
 
-## Summary
 
-The **Signature Certificate Issuance Service** is a key subservice within the **Electronic Signatures** category under eIDAS. It provides the necessary digital certificates to enable secure, legally binding electronic signatures. By ensuring compliance with strict identity verification and security standards, this service supports trust in electronic transactions across borders within the EU.

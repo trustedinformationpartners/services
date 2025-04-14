@@ -44,6 +44,3 @@
 
 ---
 
-## Summary
-
-The **Website Authentication Certificate Validation Service** is a critical subservice within the **Website Authentication** category under eIDAS. It ensures the ongoing validity and authenticity of website authentication certificates, fostering trust in online interactions. By adhering to strict eIDAS standards, this service supports secure digital transactions across borders within the EU while unlocking significant opportunities for market innovation and business transformation in the realm of online trust and security.

@@ -44,6 +44,3 @@
 
 ---
 
-## Summary
-
-The **Website Authentication Certificate Issuance Service** is a critical subservice within the **Website Authentication** category under eIDAS. It provides the necessary digital certificates to enable secure, legally recognized website authentication. By ensuring compliance with strict identity verification and security standards, this service supports trust in online transactions across borders within the EU while simultaneously creating significant opportunities for market innovation and business transformation.

@@ -43,6 +43,3 @@
 
 ---
 
-## Summary
-
-The **Signature Certificate Validation Service** plays a critical role in ensuring trust in electronic signatures under eIDAS. By verifying the validity and trustworthiness of certificates, it provides a foundation for secure digital transactions across borders. While it complements Signature Validation Services, its unique focus on certificates ensures compliance with eIDAS standards and supports legal certainty in electronic interactions.

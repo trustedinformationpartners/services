@@ -8,6 +8,9 @@
 
 ---
 
+## What is it?
+Qualified Electronic Archiving (QeA) is an advanced trust service introduced by the eIDAS 2.0 regulation (Regulation 2024/1183) that ensures the secure, long-term preservation of electronic documents and data with legal validity across the European Union. It represents a significant evolution in digital preservation standards, offering enhanced security and regulatory compliance. Qualified Electronic Archiving is formally defined as "a service ensuring the receipt, storage, retrieval and deletion of electronic data and electronic documents"
+
 ## Role and Importance of the Archiving Electronic Data and Documents Service
 
 ### 1. **Qualified Electronic Archiving**
@@ -46,6 +49,4 @@
 
 ---
 
-## Summary
 
-The **Archiving Electronic Data and Documents Service** is a critical service within the **Electronic Archiving** category under eIDAS. It ensures the long-term preservation and legal validity of electronic information, fostering trust in digital transactions. This service represents a significant advancement in creating a safer and better way for preserving and sharing digital information, supporting cross-border trust within the EU while unlocking significant opportunities for market innovation and business transformation.
