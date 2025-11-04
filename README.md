@@ -1,4 +1,4 @@
-# Generieke diensten voor digitale infrastructuur
+# Generieke diensten voor digitale infrastructuur 
 
 Dit project geeft antwoord op de vraag: [Welke generieke vertrouwensdiensten zijn er nodig voor online zakendoen?](https://alkem.io/tip/collaboration/welkegeneriekevert-1149).
 
