@@ -5,7 +5,7 @@ The platform consultation has submitted the following question to the Knowledge 
 Below is an explanation based on the most important perspectives: that of the provider of specific digital “trust” services (trust service provider) or of other generic services for doing business online; that of a company or organization that offers online services that make use of these services (such as a bank where you can sign a contract online); and that of the user.[^2]
 
 
-# Generieke diensten: waar hebben we het precies over? 
+# Generic services, what exactly are we talking about? 
 
 The concept of a trust service, and what we mean by it, differs per person. Besides various personal definitions (a trust service ensures that you can do things online in a safe and reliable way…), there is also a legal definition that is included in the eIDAS 2.0 regulation, but it is fairly vague and open to multiple interpretations.[^3]
 
