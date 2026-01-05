@@ -7,9 +7,23 @@ Below is an explanation based on the most important perspectives: that of the pr
 
 # Generic services, what exactly are we talking about? 
 
-The concept of a trust service, and what we mean by it, differs per person. Besides various personal definitions (a trust service ensures that you can do things online in a safe and reliable way…), there is also a legal definition that is included in the eIDAS 2.0 regulation, but it is fairly vague and open to multiple interpretations.[^3]
+The concept of a trust service, and what we mean by it, differs per person. Besides various personal definitions (a trust service ensures that you can do things online in a safe and reliable way…), there is also a legal definition that is included in the eIDAS 2.0 regulation, but it is fairly vague and open to multiple interpretations[^3]:
 
-*“trust service”*: an electronic service that is normally provided for remuneration and consists of one of the following elements: (followed by a list of 14 services).
+(Regulation (EU) No 910/2014, article 3, paragraph 16)**‘trust service’** means an electronic service normally provided for remuneration which consists of any of the following:
+- (a) the issuance of certificates for electronic signatures, certificates for electronic seals, certificates for website authentication or certificates for the provision of other trust services;
+- (b) the validation of certificates for electronic signatures, certificates for electronic seals, certificates for website authentication or certificates for the provision of other trust services;
+- (c) the creation of electronic signatures or electronic seals;
+- (d) the validation of electronic signatures or electronic seals;
+- (e) the preservation of electronic signatures, electronic seals, certificates for electronic signatures or certificates for electronic seals;
+- (f) the management of remote electronic signature creation devices or remote electronic seal creation devices;
+- (g) the issuance of electronic attestations of attributes;
+- (h) the validation of electronic attestation of attributes;
+- (i) the creation of electronic timestamps;
+- (j) the validation of electronic timestamps;
+- (k) the provision of electronic registered delivery services;
+- (l) the validation of data transmitted through electronic registered delivery services and related evidence;
+- (m) the electronic archiving of electronic data and electronic documents;
+- (n) the recording of electronic data in an electronic ledger;
 
 By now, more than 30 types of services can be identified that contribute to trust. Not all of them are considered trust services at European level: some are **generic services** that, for example, contribute to electronic identification or data management. Among these generic services, at least a number are **trust services**. There is also a distinction within that group.
 
