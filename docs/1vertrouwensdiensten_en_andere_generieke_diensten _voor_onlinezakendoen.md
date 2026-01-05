@@ -21,19 +21,6 @@ This overview also shows which “trust” services are needed to provide a serv
 
 Separate from the above, there is also a distinction when applying an advanced or qualified electronic signature. All this complexity makes it confusing when people talk about the electronic signature: what exactly are they referring to? In such conversations, the overview of trust services is useful: it can be used as a kind of taxonomy.
 
-In de eerste iteratie van de vertrouwensdienst-taxonomie maakt de TIP-werkgroep Kennis
-onderscheid tussen:
-- Ondertekendiensten, inclusief diensten voor handtekeningen, zegels en tijdsstempels;
-- Toegangsdiensten, inclusief diensten voor uitgifte van identiteiten;
-- Diensten voor attestering van attributen;
-- Bezorgdiensten;
-- Archiefdiensten;
-- Registerdiensten;
-- Website-authenticatiediensten;
-- Diensten voor het beheer van persoonsgegevens;
-- Diensten voor het leveren van vertrouwensdiensten;
-- Diensten voor het leveren van een handelingsomgeving.
-
 In the first iteration of the trust service taxonomy, the TIP Knowledge Working Group distinguishes between:
 - Signing services, including services for signatures, seals, and timestamps;
 - Access services, including services for issuing identities;
