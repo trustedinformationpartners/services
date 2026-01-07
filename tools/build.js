@@ -7,7 +7,7 @@ const DOCS = "docs"
 const OUT = "build"
 const TITLE = "Generic services for digital infrastructure"
 const BOOK = "generic-services"
-const VERSION = "0.1"
+const VERSION = "1.0"
 
 let date = new Date().toISOString().substr(0, 10)
 
